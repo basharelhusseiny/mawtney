@@ -66,5 +66,59 @@
       "years": "Years of Experience",
       "satisfaction": "Client Satisfaction Rate"
     }
+  },
+  "real_estate_laws": {
+    "title": "Real Estate Laws in Turkey",
+    "description": "In Mawtney Real Estate, we are committed to following the latest legal changes continuously",
+    "paragraphs": [
+      "Real estate laws in Turkey are known for their flexibility and continuous development in line with the growth of the property market and the increasing interest of foreign investors. The Turkish government regularly updates regulations to support investment and provide a transparent and secure environment for property buyers.",
+      "These updates may include changes to the minimum investment amount required for obtaining Turkish citizenship, as well as adjustments related to property residency conditions and legal procedures involved in purchasing real estate. Understanding these updates is an important step for anyone considering property investment in Turkey.",
+      "Having access to accurate and up-to-date information allows investors to make well-informed decisions and build a clear investment strategy that aligns with their goals, whether for living, long-term investment, or obtaining Turkish citizenship.",
+      "At Mawtney Real Estate, we continuously monitor the latest legal updates and provide our clients with trusted consultations to help them understand the market and its regulations, ensuring a safe buying experience and a successful investment in Turkey."
+    ]
+  },
+  "services_section": {
+    "title": "Mawtney Real Estate Services in Turkey",
+    "description": "We provide a full range of real estate services to help you buy property, invest, manage assets, and obtain Turkish citizenship easily and securely",
+    "services": [
+      {
+        "name": "Buying Property in Turkey",
+        "description": "We guide you through all steps of buying property, from choosing the right project to receiving the title deed.",
+        "items": [
+          "Tax Number Registration",
+          "Bank Account Opening",
+          "Legal Fund Transfer",
+          "Title Deed Transfer"
+        ]
+      },
+      {
+        "name": "Turkish Citizenship via Investment",
+        "description": "Obtain Turkish citizenship by purchasing a qualifying property with full legal follow-up by a specialized team.",
+        "items": [
+          "Official Property Valuation",
+          "Citizenship Application File Preparation",
+          "Full Follow-up Until Approval"
+        ]
+      },
+      {
+        "name": "Real Estate Investment",
+        "description": "We help you choose the right property to achieve the best investment returns.",
+        "items": [
+          "Per Square Meter Price Analysis",
+          "Annual Return Estimation",
+          "Resale Planning"
+        ]
+      },
+      {
+        "name": "Property Management",
+        "description": "Comprehensive property management services for owners inside and outside Turkey.",
+        "items": [
+          "Annual or Daily Rentals",
+          "Rent Collection",
+          "Maintenance Follow-up",
+          "Periodic Reports"
+        ]
+      }
+    ]
   }
 }

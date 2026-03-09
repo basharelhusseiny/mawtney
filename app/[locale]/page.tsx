@@ -1,4 +1,9 @@
-import { HeroSection, WhyChooseUsSection } from "@/components/pages/home";
+import {
+  HeroSection,
+  ServicesSection,
+  WhyChooseUsSection,
+} from "@/components/pages/home";
+import RealEstateLawsSection from "@/components/pages/home/RealEstateLawsSection";
 import { TextTicker } from "@/components/ui";
 import { getDictionary } from "@/dictionaries";
 import { Locale } from "@/types/constants";
@@ -16,6 +21,8 @@ const HomePage = async ({ params }: HomePageProps) => {
       <HeroSection dict={dict} locale={locale as Locale} />
       <TextTicker texts={dict.hero.texts_ticker} />
       <WhyChooseUsSection dict={dict} />
+      <RealEstateLawsSection dict={dict} locale={locale as Locale} />
+      <ServicesSection dict={dict} locale={locale as Locale} />
     </div>
   );
 };
