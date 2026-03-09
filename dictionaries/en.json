@@ -1,1 +1,70 @@
-{}
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "brand": "Mawtney Real Estate",
+    "headline": "Your Trusted Partner for Buying Property and Investing in Turkey",
+    "subheadline": "We help you own property in Turkey with complete legal security.",
+    "description": "Whether your goal is living, investment, or obtaining Turkish citizenship, Mawtney provides professional consultation and carefully selected real estate opportunities in the best areas of Turkey.",
+    "cta_primary": "Browse Properties",
+    "cta_secondary": "Contact Us",
+    "badges": {
+      "citizenship": "Citizenship-Eligible Projects",
+      "valuation": "Official Property Valuation",
+      "installments": "Flexible Installment Plans up to 48 Months",
+      "property_management": "Full Property Management After Purchase"
+    },
+    "floating_labels": {
+      "verified_properties": "Verified Properties",
+      "free_consultation": "Free Consultation"
+    },
+    "texts_ticker": [
+      "Full Legal Security",
+      "Professional Investment Analysis",
+      "Flexible Installment Plans up to 48 Months",
+      "Complete Property Management After Purchase",
+      "Tax Number Registration",
+      "Bank Account Opening",
+      "Legal Fund Transfer",
+      "Title Deed Transfer in Turkey",
+      "Full Follow-up Until Approval",
+      "Annual or Daily Rental Services",
+      "Citizenship Application File Preparation",
+      "Property Maintenance Follow-up",
+      "Rent Collection Services",
+      "Well-Planned Family-Friendly Environment",
+      "Strong Government Projects and Infrastructure"
+    ]
+  },
+  "why_choose_us": {
+    "title": "Why Choose Mawtney Real Estate?",
+    "description": "We provide comprehensive real estate solutions that help investors and clients make safe and well-informed decisions in the Turkish property market.",
+    "cards": [
+      {
+        "title": "Complete Legal Security",
+        "description": "We review all legal property documents including the title deed and official property valuation to ensure a safe investment."
+      },
+      {
+        "title": "Professional Investment Analysis",
+        "description": "We help you choose areas with real growth potential and strong investment returns."
+      },
+      {
+        "title": "Flexible Payment Plans",
+        "description": "We offer projects with multiple payment options including cash payments or convenient installment plans."
+      },
+      {
+        "title": "After-Sales Support",
+        "description": "Our services continue after purchase with property rental, management, and resale support."
+      }
+    ],
+    "stats": {
+      "clients": "Happy Clients",
+      "properties": "Properties Sold",
+      "years": "Years of Experience",
+      "satisfaction": "Client Satisfaction Rate"
+    }
+  }
+}
