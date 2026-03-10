@@ -132,8 +132,9 @@
     "cta": "Contact Us",
     "contact": {
       "address": "Istanbul, Turkey",
-      "phone": "+90 XXX XXX XXXX",
-      "email": "info@mawteny.com"
+      "phone": "+90 544 464 44 22",
+      "email": "info@mawteny.com",
+      "email2": "Mawtney@gmail.com"
     },
     "services": [
       "Buy Property in Turkey",
@@ -227,13 +228,14 @@
         {
           "icon": "phone",
           "label": "Phone",
-          "value": "+90 532 XXX XX XX",
-          "href": "tel:+9053200000000"
+          "value": "+90 544 464 44 22",
+          "href": "tel:+905444644422"
         },
         {
           "icon": "mail",
           "label": "Email",
           "value": "info@mawtney.com",
+          "value2": "Mawtney@gmail.com",
           "href": "mailto:info@mawtney.com"
         },
         {
@@ -253,7 +255,7 @@
     "whatsapp": {
       "label": "Chat on WhatsApp",
       "description": "For instant replies, reach us directly",
-      "href": "https://wa.me/9053200000000"
+      "href": "https://wa.me/+905444644422"
     }
   }
 }

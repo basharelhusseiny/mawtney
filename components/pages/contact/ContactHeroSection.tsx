@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Clock, Globe, CalendarDays, Sparkles, MapPin } from "lucide-react";
+import { Clock, Globe, CalendarDays, MapPin } from "lucide-react";
 import { DictProps } from "@/types/constants";
 
 const STAT_ICONS = [Clock, CalendarDays, Globe, MapPin];

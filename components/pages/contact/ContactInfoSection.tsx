@@ -57,6 +57,7 @@ const ContactInfoSection = ({ dict, locale }: DictProps) => {
                   icon: string;
                   label: string;
                   value: string;
+                  value2?: string;
                   href: string | null;
                 },
                 i: number,
@@ -83,6 +84,11 @@ const ContactInfoSection = ({ dict, locale }: DictProps) => {
                       <p className="text-white font-semibold text-sm truncate">
                         {item.value}
                       </p>
+                      {item.value2 && (
+                        <p className="text-white font-semibold text-sm truncate">
+                          {item.value2}
+                        </p>
+                      )}
                     </div>
                     {item.href && (
                       <ExternalLink className="w-3.5 h-3.5 text-white/20 group-hover:text-[#d53336]/60 shrink-0 transition-colors duration-300" />

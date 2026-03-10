@@ -128,8 +128,9 @@
     "cta": "تواصل معنا",
     "contact": {
       "address": "إسطنبول، تركيا",
-      "phone": "+90 XXX XXX XXXX",
-      "email": "info@mawteny.com"
+      "phone": "+90 544 464 44 22",
+      "email": "info@mawteny.com",
+      "email2": "Mawtney@gmail.com"
     },
     "services": [
       "شراء العقارات في تركيا",
@@ -217,13 +218,14 @@
         {
           "icon": "phone",
           "label": "الهاتف",
-          "value": "+90 532 XXX XX XX",
-          "href": "tel:+9053200000000"
+          "value": "+90 544 464 44 22",
+          "href": "tel:+905444644422"
         },
         {
           "icon": "mail",
           "label": "البريد الإلكتروني",
           "value": "info@mawtney.com",
+          "value2": "Mawtney@gmail.com",
           "href": "mailto:info@mawtney.com"
         },
         {
@@ -243,7 +245,7 @@
     "whatsapp": {
       "label": "تواصل عبر واتساب",
       "description": "للرد الفوري تواصل معنا مباشرة",
-      "href": "https://wa.me/9053200000000"
+      "href": "https://wa.me/+905444644422"
     }
   }
 }

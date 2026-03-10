@@ -60,9 +60,6 @@ const Header = ({ dict, locale }: DictProps) => {
 
           {/* ── Right Side ── */}
           <div className="flex items-center gap-3">
-            {/* Language toggle — always visible */}
-            <LanguageToggle locale={locale!} />
-
             {/* Hamburger — only on mobile */}
             <div className="lg:hidden">
               <MobileMenuToggle
@@ -70,6 +67,9 @@ const Header = ({ dict, locale }: DictProps) => {
                 onClose={setIsMobileMenuOpen}
               />
             </div>
+
+            {/* Language toggle — always visible */}
+            <LanguageToggle locale={locale!} />
           </div>
         </div>
       </header>

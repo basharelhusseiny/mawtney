@@ -62,13 +62,19 @@ export const FOOTER_CONTACT_ITEMS = [
   {
     icon: Phone,
     key: "phone",
-    href: "tel:+90XXXXXXXXXX",
+    href: "tel:+905444644422",
     isExternal: false,
   },
   {
     icon: Mail,
     key: "email",
     href: "mailto:info@mawteny.com",
+    isExternal: false,
+  },
+  {
+    icon: Mail,
+    key: "email2",
+    href: "mailto:Mawtney@gmail.com",
     isExternal: false,
   },
 ] as const;
