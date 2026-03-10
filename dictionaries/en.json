@@ -120,5 +120,64 @@
         ]
       }
     ]
+  },
+  "footer": {
+    "about": "Your trusted partner in Turkish real estate. We help you own property and achieve your investment goals safely and confidently.",
+    "quick_links": "Quick Links",
+    "our_services": "Our Services",
+    "contact_us": "Contact Us",
+    "follow_us": "Follow Us",
+    "rights": "Mawtney Real Estate. All rights reserved.",
+    "built_with": "Designed with care to serve you",
+    "cta": "Contact Us",
+    "contact": {
+      "address": "Istanbul, Turkey",
+      "phone": "+90 XXX XXX XXXX",
+      "email": "info@mawteny.com"
+    },
+    "services": [
+      "Buy Property in Turkey",
+      "Turkish Citizenship by Investment",
+      "Property Management",
+      "Official Property Valuation",
+      "Flexible Installment Plans"
+    ],
+    "developedBy": "Developed by Yakut Media"
+  },
+  "about_page": {
+    "hero": {
+      "title": "About Us – Mawtney Real Estate",
+      "description": "Mawtney Real Estate is a company specialized in providing real estate and investment solutions in Turkey for investors and individuals looking to purchase property for living, investment, or obtaining Turkish citizenship. We offer trusted property opportunities in the best locations across Turkey, supported by comprehensive legal and investment guidance to ensure a safe and smooth buying experience."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to provide safe and profitable real estate opportunities for our clients by offering professional consultations, accurate market analysis, and full legal follow-up throughout every stage of the property purchasing process."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Our vision is to become one of the leading real estate companies in Turkey serving Arab investors, while building long-term relationships with our clients based on trust, transparency, and professionalism."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        "Transparency in dealing with clients",
+        "Credibility in providing information and consultations",
+        "Professional management of real estate operations",
+        "Full commitment to customer service and client satisfaction"
+      ]
+    },
+    "why_trust_us": {
+      "title": "Why Clients Trust Us",
+      "items": [
+        "Strong experience in the Turkish real estate market",
+        "A specialized team in real estate and legal consulting",
+        "Carefully selected projects with real investment value",
+        "Comprehensive services from consultation to property management"
+      ]
+    },
+    "cta": {
+      "title": "Looking for the right real estate opportunity in Turkey?",
+      "description": "Contact the Mawtney Real Estate team to get professional consultation and discover the best property investment opportunities."
+    }
   }
 }
