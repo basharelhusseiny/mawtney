@@ -179,5 +179,81 @@
       "title": "Looking for the right real estate opportunity in Turkey?",
       "description": "Contact the Mawtney Real Estate team to get professional consultation and discover the best property investment opportunities."
     }
+  },
+  "contact_page": {
+    "hero": {
+      "eyebrow": "Contact Us",
+      "title": "We're Here",
+      "title_accent": "To Help You",
+      "description": "Our specialized team is ready to answer all your inquiries and provide the best real estate solutions in Turkey",
+      "stats": [
+        { "value": "< 24h", "label": "Response Time" },
+        { "value": "+500", "label": "Happy Clients" },
+        { "value": "8+", "label": "Years Exp." },
+        { "value": "98%", "label": "Satisfaction" }
+      ]
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "description": "Fill out the form and we'll get back to you shortly",
+      "fields": {
+        "name": { "label": "Full Name", "placeholder": "Enter your full name" },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "example@email.com"
+        },
+        "phone": {
+          "label": "Phone Number",
+          "placeholder": "+90 5XX XXX XX XX"
+        },
+        "subject": {
+          "label": "Subject",
+          "placeholder": "How can we help you?"
+        },
+        "message": {
+          "label": "Message",
+          "placeholder": "Write your inquiry details here..."
+        }
+      },
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success_title": "Sent Successfully!",
+      "success_message": "Thank you for contacting us. We'll reply within 24 hours.",
+      "error_message": "Something went wrong. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "items": [
+        {
+          "icon": "phone",
+          "label": "Phone",
+          "value": "+90 532 XXX XX XX",
+          "href": "tel:+9053200000000"
+        },
+        {
+          "icon": "mail",
+          "label": "Email",
+          "value": "info@mawtney.com",
+          "href": "mailto:info@mawtney.com"
+        },
+        {
+          "icon": "map-pin",
+          "label": "Address",
+          "value": "Istanbul, Turkey",
+          "href": "https://maps.google.com"
+        },
+        {
+          "icon": "clock",
+          "label": "Working Hours",
+          "value": "Mon – Sat: 9AM – 6PM",
+          "href": null
+        }
+      ]
+    },
+    "whatsapp": {
+      "label": "Chat on WhatsApp",
+      "description": "For instant replies, reach us directly",
+      "href": "https://wa.me/9053200000000"
+    }
   }
 }

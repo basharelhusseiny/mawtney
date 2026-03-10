@@ -175,5 +175,75 @@
       "title": "هل تبحث عن فرصة عقارية مناسبة في تركيا؟",
       "description": "تواصل مع فريق موطني العقارية للحصول على استشارة تساعدك في اختيار العقار المناسب وتحقيق أفضل فرصة استثمارية."
     }
+  },
+  "contact_page": {
+    "hero": {
+      "eyebrow": "تواصل معنا",
+      "title": "نحن هنا",
+      "title_accent": "لمساعدتك",
+      "description": "فريقنا المتخصص جاهز للإجابة على جميع استفساراتك وتقديم أفضل الحلول العقارية في تركيا",
+      "stats": [
+        { "value": "< 24h", "label": "وقت الرد" },
+        { "value": "+500", "label": "عميل راضٍ" },
+        { "value": "8+", "label": "سنوات خبرة" },
+        { "value": "98%", "label": "نسبة الرضا" }
+      ]
+    },
+    "form": {
+      "title": "أرسل لنا رسالة",
+      "description": "املأ النموذج وسنتواصل معك في أقرب وقت",
+      "fields": {
+        "name": { "label": "الاسم الكامل", "placeholder": "أدخل اسمك الكامل" },
+        "email": {
+          "label": "البريد الإلكتروني",
+          "placeholder": "example@email.com"
+        },
+        "phone": { "label": "رقم الهاتف", "placeholder": "+90 5XX XXX XX XX" },
+        "subject": { "label": "الموضوع", "placeholder": "كيف يمكننا مساعدتك؟" },
+        "message": {
+          "label": "الرسالة",
+          "placeholder": "اكتب تفاصيل استفسارك هنا..."
+        }
+      },
+      "submit": "إرسال الرسالة",
+      "submitting": "جارٍ الإرسال...",
+      "success_title": "تم الإرسال بنجاح!",
+      "success_message": "شكراً لتواصلك معنا، سنرد عليك خلال 24 ساعة.",
+      "error_message": "حدث خطأ، يرجى المحاولة مرة أخرى."
+    },
+    "info": {
+      "title": "معلومات التواصل",
+      "items": [
+        {
+          "icon": "phone",
+          "label": "الهاتف",
+          "value": "+90 532 XXX XX XX",
+          "href": "tel:+9053200000000"
+        },
+        {
+          "icon": "mail",
+          "label": "البريد الإلكتروني",
+          "value": "info@mawtney.com",
+          "href": "mailto:info@mawtney.com"
+        },
+        {
+          "icon": "map-pin",
+          "label": "العنوان",
+          "value": "إسطنبول، تركيا",
+          "href": "https://maps.google.com"
+        },
+        {
+          "icon": "clock",
+          "label": "أوقات العمل",
+          "value": "الإثنين – السبت: 9ص – 6م",
+          "href": null
+        }
+      ]
+    },
+    "whatsapp": {
+      "label": "تواصل عبر واتساب",
+      "description": "للرد الفوري تواصل معنا مباشرة",
+      "href": "https://wa.me/9053200000000"
+    }
   }
 }
