@@ -131,7 +131,7 @@
     "built_with": "Size hizmet etmek için özenle tasarlandı",
     "cta": "Bizimle İletişime Geçin",
     "contact": {
-      "address": "İstanbul, Türkiye",
+      "address": "Gokevker Mah. Beykent Istanbul Turkey",
       "phone": "+90 544 464 44 22",
       "email": "info@mawtney.com",
       "email2": "Mawtney@gmail.com"
@@ -244,7 +244,7 @@
         {
           "icon": "map-pin",
           "label": "Adres",
-          "value": "İstanbul, Türkiye",
+          "value": "Gokevker Mah. Beykent Istanbul Turkey",
           "href": "https://maps.google.com"
         },
         {

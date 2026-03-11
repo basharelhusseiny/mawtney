@@ -140,13 +140,8 @@ const HeroAboutSection = ({ dict, locale }: DictProps) => {
               },
               {
                 icon: MapPin,
-                value: "İstanbul",
-                label:
-                  locale === "ar"
-                    ? "تركيا"
-                    : locale === "tr"
-                      ? "Türkiye"
-                      : "Turkey",
+                value: "Gokevker Mah",
+                label: "Beykent Istanbul Turkey",
                 color: "from-white/10 to-white/5",
                 iconColor: "text-white",
                 borderColor: "border-white/20",
