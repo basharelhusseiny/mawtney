@@ -82,11 +82,19 @@ const ContactInfoSection = ({ dict, locale }: DictProps) => {
                         {item.label}
                       </p>
                       <p className="text-white font-semibold text-sm truncate">
-                        {item.value}
+                        {item.icon === "phone" ? (
+                          <bdi dir="ltr">{item.value}</bdi>
+                        ) : (
+                          item.value
+                        )}
                       </p>
                       {item.value2 && (
                         <p className="text-white font-semibold text-sm truncate">
-                          {item.value2}
+                          {item.icon === "phone" ? (
+                            <bdi dir="ltr">{item.value2}</bdi>
+                          ) : (
+                            item.value2
+                          )}
                         </p>
                       )}
                     </div>
@@ -188,7 +196,11 @@ const ContactInfoSection = ({ dict, locale }: DictProps) => {
                 <Share2 className="w-4 h-4 text-[#d53336]" />
               </div>
               <h3 className="text-[#1a1a2e] font-extrabold text-lg">
-                {isRtl ? "تابعنا على" : "Follow Us"}
+                {locale === "ar"
+                  ? "تابعنا على"
+                  : locale === "tr"
+                    ? "Bizi Takip Edin"
+                    : "Follow Us"}
               </h3>
             </div>
 

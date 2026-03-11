@@ -51,7 +51,8 @@ const HeroContent = ({ dict, locale }: DictProps) => {
             />
           </Button>
           <Button
-            href="/contact"
+            href="https://api.whatsapp.com/send?phone=905444644422"
+            target="_blank"
             size="md"
             variant="secondary"
             className="h-14"

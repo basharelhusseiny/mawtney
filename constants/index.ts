@@ -20,6 +20,7 @@ export const NAV_LINKS: NavLink[] = [
 export const LOCALES: LocaleData[] = [
   { code: "ar", label: "العربية", short: "AR" },
   { code: "en", label: "English", short: "EN" },
+  { code: "tr", label: "Türkçe", short: "TR" },
 ];
 
 export const HERO_IMAGES_SLIDES: string[] = [

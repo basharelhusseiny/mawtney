@@ -1,6 +1,6 @@
 import { Dictionary } from "@/dictionaries";
 
-export type Locale = "ar" | "en";
+export type Locale = "ar" | "en" | "tr";
 
 export type DictProps = {
   dict: Dictionary;

@@ -94,7 +94,11 @@ const ContactFormSection = ({ dict, locale }: DictProps) => {
                 }}
                 className="mt-2 text-sm text-[#d53336] font-bold hover:underline"
               >
-                {isRtl ? "إرسال رسالة أخرى" : "Send Another Message"}
+                {locale === "ar"
+                  ? "إرسال رسالة أخرى"
+                  : locale === "tr"
+                    ? "Başka Bir Mesaj Gönder"
+                    : "Send Another Message"}
               </button>
             </motion.div>
           ) : (
@@ -134,7 +138,7 @@ const ContactFormSection = ({ dict, locale }: DictProps) => {
                           onFocus={() => setFocused(key)}
                           onBlur={() => setFocused(null)}
                           placeholder={fieldData.placeholder}
-                          dir={isRtl ? "rtl" : "ltr"}
+                          dir={type === "tel" ? "ltr" : isRtl ? "rtl" : "ltr"}
                           className={`w-full rounded-2xl border-2 bg-[#f7f7fb] py-3.5 text-[#1a1a2e] font-medium text-sm placeholder:text-[#b0b0c8] outline-none transition-all duration-200 ${isRtl ? "pr-11 pl-4 text-right" : "pl-11 pr-4"} ${isFocused ? "border-[#d53336] bg-white shadow-[0_0_0_4px_rgba(213,51,54,0.08)]" : "border-[#e8e8f0] hover:border-[#d53336]/40"}`}
                         />
                       </div>

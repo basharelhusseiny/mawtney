@@ -199,7 +199,11 @@ const Footer = ({ dict, locale = "ar" }: DictProps) => {
                         <Icon className="w-4 h-4 text-[#d53336]" />
                       </div>
                       <span className="pt-1.5 font-semibold leading-snug">
-                        {t.contact[key]}
+                        {key === "phone" ? (
+                          <bdi dir="ltr">{t.contact[key]}</bdi>
+                        ) : (
+                          t.contact[key]
+                        )}
                       </span>
                     </Link>
                   </li>

@@ -64,14 +64,21 @@ const CTAAboutSection = ({ dict, locale }: DictProps) => {
               transition={{ duration: 0.2 }}
             >
               <Link
-                href={`/${locale}/contact`}
+                href="https://api.whatsapp.com/send?phone=905444644422"
+                target="_blank"
                 className="mt-2 inline-flex items-center gap-3 px-8 py-4 rounded-2xl
                   bg-[#d53336] hover:bg-[#b01f22] text-white text-base font-bold
                   shadow-[0_4px_24px_rgba(213,51,54,0.45)] hover:shadow-[0_8px_40px_rgba(213,51,54,0.55)]
                   transition-all duration-300"
               >
                 <MessageCircle className="w-5 h-5" />
-                <span>{isRtl ? "تواصل معنا الآن" : "Contact Us Now"}</span>
+                <span>
+                  {locale === "ar"
+                    ? "تواصل معنا الآن"
+                    : locale === "tr"
+                      ? "Hemen Bizimle İletişime Geçin"
+                      : "Contact Us Now"}
+                </span>
                 <ArrowIcon className="w-4 h-4" />
               </Link>
             </motion.div>

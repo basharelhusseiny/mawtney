@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "brand": "Mawtney Gayrimenkul",
+    "headline": "Türkiye'de Gayrimenkul Satın Alma ve Yatırım İçin Güvenilir Ortağınız",
+    "subheadline": "Türkiye'de tam yasal güvence ile gayrimenkul sahibi olmanıza yardımcı oluyoruz.",
+    "description": "Amacınız yaşamak, yatırım yapmak veya Türk vatandaşlığı almak olsun, Mawtney Türkiye'nin en iyi bölgelerinde profesyonel danışmanlık ve özenle seçilmiş gayrimenkul fırsatları sunar.",
+    "cta_primary": "Gayrimenkulleri İncele",
+    "cta_secondary": "Bizimle İletişime Geçin",
+    "badges": {
+      "citizenship": "Vatandaşlığa Uygun Projeler",
+      "valuation": "Resmi Gayrimenkul Değerleme",
+      "installments": "48 Aya Kadar Esnek Taksit Planları",
+      "property_management": "Satın Alma Sonrası Tam Gayrimenkul Yönetimi"
+    },
+    "floating_labels": {
+      "verified_properties": "Doğrulanmış Gayrimenkuller",
+      "free_consultation": "Ücretsiz Danışmanlık"
+    },
+    "texts_ticker": [
+      "Tam Yasal Güvence",
+      "Profesyonel Yatırım Analizi",
+      "48 Aya Kadar Esnek Taksit Planları",
+      "Satın Alma Sonrası Tam Gayrimenkul Yönetimi",
+      "Vergi Numarası Kaydı",
+      "Banka Hesabı Açılışı",
+      "Yasal Para Transferi",
+      "Türkiye'de Tapu Devri",
+      "Onaya Kadar Tam Takip",
+      "Yıllık veya Günlük Kiralama Hizmetleri",
+      "Vatandaşlık Başvuru Dosyası Hazırlama",
+      "Gayrimenkul Bakım Takibi",
+      "Kira Tahsilat Hizmetleri",
+      "İyi Planlanmış Aile Dostu Ortam",
+      "Güçlü Devlet Projeleri ve Altyapı"
+    ]
+  },
+  "why_choose_us": {
+    "title": "Neden Mawtney Gayrimenkul?",
+    "description": "Yatırımcıların ve müşterilerin Türkiye gayrimenkul piyasasında güvenli ve bilinçli kararlar almasına yardımcı olan kapsamlı gayrimenkul çözümleri sunuyoruz.",
+    "cards": [
+      {
+        "title": "Tam Yasal Güvence",
+        "description": "Güvenli bir yatırım sağlamak için tapu ve resmi gayrimenkul değerleme dahil tüm yasal belgeleri inceliyoruz."
+      },
+      {
+        "title": "Profesyonel Yatırım Analizi",
+        "description": "Gerçek büyüme potansiyeline ve güçlü yatırım getirisine sahip bölgeleri seçmenize yardımcı oluyoruz."
+      },
+      {
+        "title": "Esnek Ödeme Planları",
+        "description": "Peşin ödeme veya uygun taksit seçenekleri dahil farklı ödeme planları sunan projeler sağlıyoruz."
+      },
+      {
+        "title": "Satış Sonrası Destek",
+        "description": "Hizmetlerimiz satın alma sonrası kiralama, yönetim ve yeniden satış desteği ile devam eder."
+      }
+    ],
+    "stats": {
+      "clients": "Mutlu Müşteriler",
+      "properties": "Satılan Gayrimenkuller",
+      "years": "Yıllık Deneyim",
+      "satisfaction": "Müşteri Memnuniyeti Oranı"
+    }
+  },
+  "real_estate_laws": {
+    "title": "Türkiye'de Gayrimenkul Yasaları",
+    "description": "Mawtney Gayrimenkul olarak en son yasal değişiklikleri sürekli takip ediyoruz",
+    "paragraphs": [
+      "Türkiye'deki gayrimenkul yasaları, emlak piyasasının büyümesi ve yabancı yatırımcıların artan ilgisiyle birlikte esnekliği ve sürekli gelişimiyle bilinir. Türk hükümeti yatırım ortamını desteklemek ve alıcılar için şeffaf ve güvenli bir ortam sağlamak amacıyla düzenlemeleri düzenli olarak günceller.",
+      "Bu güncellemeler, Türk vatandaşlığı almak için gereken minimum yatırım tutarındaki değişiklikleri ve gayrimenkul ikamet şartları ile satın alma süreçlerine ilişkin yasal prosedürlerdeki düzenlemeleri içerebilir. Bu güncellemeleri anlamak, Türkiye'de gayrimenkul yatırımı yapmayı düşünen herkes için önemli bir adımdır.",
+      "Doğru ve güncel bilgilere erişim, yatırımcıların bilinçli kararlar almasını ve yaşam, uzun vadeli yatırım veya Türk vatandaşlığı elde etme hedefleriyle uyumlu net bir yatırım stratejisi oluşturmasını sağlar.",
+      "Mawtney Gayrimenkul olarak en son yasal gelişmeleri sürekli takip ediyor ve müşterilerimize güvenilir danışmanlık sunarak piyasayı ve düzenlemelerini anlamalarına yardımcı oluyoruz. Böylece Türkiye'de güvenli bir satın alma deneyimi ve başarılı bir yatırım sağlıyoruz."
+    ]
+  },
+  "services_section": {
+    "title": "Türkiye'de Mawtney Gayrimenkul Hizmetleri",
+    "description": "Gayrimenkul satın almanıza, yatırım yapmanıza, varlıklarınızı yönetmenize ve Türk vatandaşlığı elde etmenize kolay ve güvenli şekilde yardımcı olacak tam kapsamlı hizmetler sunuyoruz",
+    "services": [
+      {
+        "name": "Türkiye'de Gayrimenkul Satın Alma",
+        "description": "Doğru projeyi seçmekten tapu teslimine kadar satın alma sürecinin tüm adımlarında size rehberlik ediyoruz.",
+        "items": [
+          "Vergi Numarası Kaydı",
+          "Banka Hesabı Açılışı",
+          "Yasal Para Transferi",
+          "Tapu Devri"
+        ]
+      },
+      {
+        "name": "Yatırım Yoluyla Türk Vatandaşlığı",
+        "description": "Uygun bir gayrimenkul satın alarak ve uzman ekip tarafından tam yasal takip ile Türk vatandaşlığı elde edin.",
+        "items": [
+          "Resmi Gayrimenkul Değerleme",
+          "Vatandaşlık Başvuru Dosyası Hazırlama",
+          "Onaya Kadar Tam Takip"
+        ]
+      },
+      {
+        "name": "Gayrimenkul Yatırımı",
+        "description": "En iyi yatırım getirilerini elde etmek için doğru gayrimenkulü seçmenize yardımcı oluyoruz.",
+        "items": [
+          "Metrekare Fiyat Analizi",
+          "Yıllık Getiri Tahmini",
+          "Yeniden Satış Planlaması"
+        ]
+      },
+      {
+        "name": "Gayrimenkul Yönetimi",
+        "description": "Türkiye içinde ve dışında bulunan mülk sahipleri için kapsamlı gayrimenkul yönetimi hizmetleri.",
+        "items": [
+          "Yıllık veya Günlük Kiralama",
+          "Kira Tahsilatı",
+          "Bakım Takibi",
+          "Periyodik Raporlar"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "about": "Türkiye gayrimenkulünde güvenilir ortağınız. Güvenli ve emin şekilde gayrimenkul sahibi olmanıza ve yatırım hedeflerinize ulaşmanıza yardımcı oluyoruz.",
+    "quick_links": "Hızlı Bağlantılar",
+    "our_services": "Hizmetlerimiz",
+    "contact_us": "Bize Ulaşın",
+    "follow_us": "Bizi Takip Edin",
+    "rights": "Mawtney Gayrimenkul. Tüm hakları saklıdır.",
+    "built_with": "Size hizmet etmek için özenle tasarlandı",
+    "cta": "Bizimle İletişime Geçin",
+    "contact": {
+      "address": "İstanbul, Türkiye",
+      "phone": "+90 544 464 44 22",
+      "email": "info@mawtney.com",
+      "email2": "Mawtney@gmail.com"
+    },
+    "services": [
+      "Türkiye'de Gayrimenkul Satın Al",
+      "Yatırım Yoluyla Türk Vatandaşlığı",
+      "Gayrimenkul Yönetimi",
+      "Resmi Gayrimenkul Değerleme",
+      "Esnek Taksit Planları"
+    ],
+    "developedBy": "Yakut Media tarafından geliştirildi"
+  },
+  "about_page": {
+    "hero": {
+      "title": "Hakkımızda – Mawtney Gayrimenkul",
+      "description": "Mawtney Gayrimenkul, Türkiye’de yaşamak, yatırım yapmak veya Türk vatandaşlığı elde etmek amacıyla gayrimenkul satın almak isteyen yatırımcılar ve bireyler için gayrimenkul ve yatırım çözümleri sunan uzman bir şirkettir. Türkiye’nin en iyi lokasyonlarında güvenilir gayrimenkul fırsatları sunuyor ve güvenli ve sorunsuz bir satın alma deneyimi sağlamak için kapsamlı hukuki ve yatırım danışmanlığı ile destek veriyoruz."
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Misyonumuz, profesyonel danışmanlık, doğru piyasa analizleri ve gayrimenkul satın alma sürecinin her aşamasında tam hukuki takip sağlayarak müşterilerimize güvenli ve kârlı gayrimenkul fırsatları sunmaktır."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Vizyonumuz, Arap yatırımcılara hizmet veren Türkiye’nin önde gelen gayrimenkul şirketlerinden biri olmak ve müşterilerimizle güven, şeffaflık ve profesyonellik temelinde uzun vadeli ilişkiler kurmaktır."
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "items": [
+        "Müşterilerle ilişkilerde şeffaflık",
+        "Bilgi ve danışmanlık sunumunda güvenilirlik",
+        "Gayrimenkul işlemlerinin profesyonel yönetimi",
+        "Müşteri hizmetleri ve müşteri memnuniyetine tam bağlılık"
+      ]
+    },
+    "why_trust_us": {
+      "title": "Müşteriler Neden Bize Güveniyor",
+      "items": [
+        "Türkiye gayrimenkul piyasasında güçlü deneyim",
+        "Gayrimenkul ve hukuk danışmanlığında uzman ekip",
+        "Gerçek yatırım değeri olan özenle seçilmiş projeler",
+        "Danışmanlıktan gayrimenkul yönetimine kadar kapsamlı hizmetler"
+      ]
+    },
+    "cta": {
+      "title": "Türkiye’de doğru gayrimenkul fırsatını mı arıyorsunuz?",
+      "description": "Profesyonel danışmanlık almak ve en iyi gayrimenkul yatırım fırsatlarını keşfetmek için Mawtney Gayrimenkul ekibiyle iletişime geçin."
+    }
+  },
+  "contact_page": {
+    "hero": {
+      "eyebrow": "Bize Ulaşın",
+      "title": "Buradayız",
+      "title_accent": "Size Yardımcı Olmak İçin",
+      "description": "Uzman ekibimiz tüm sorularınızı yanıtlamak ve Türkiye’de en iyi gayrimenkul çözümlerini sunmak için hazır",
+      "stats": [
+        { "value": "< 24h", "label": "Yanıt Süresi" },
+        { "value": "+500", "label": "Mutlu Müşteri" },
+        { "value": "8+", "label": "Yıl Deneyim" },
+        { "value": "98%", "label": "Memnuniyet" }
+      ]
+    },
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "description": "Formu doldurun, en kısa sürede size geri dönüş yapalım",
+      "fields": {
+        "name": {
+          "label": "Ad Soyad",
+          "placeholder": "Adınızı ve soyadınızı girin"
+        },
+        "email": {
+          "label": "E-posta Adresi",
+          "placeholder": "example@email.com"
+        },
+        "phone": {
+          "label": "Telefon Numarası",
+          "placeholder": "+90 5XX XXX XX XX"
+        },
+        "subject": {
+          "label": "Konu",
+          "placeholder": "Size nasıl yardımcı olabiliriz?"
+        },
+        "message": {
+          "label": "Mesaj",
+          "placeholder": "Talebinizin detaylarını buraya yazın..."
+        }
+      },
+      "submit": "Mesaj Gönder",
+      "submitting": "Gönderiliyor...",
+      "success_title": "Başarıyla Gönderildi!",
+      "success_message": "Bizimle iletişime geçtiğiniz için teşekkür ederiz. 24 saat içinde size dönüş yapacağız.",
+      "error_message": "Bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "items": [
+        {
+          "icon": "phone",
+          "label": "Telefon",
+          "value": "+90 544 464 44 22",
+          "href": "tel:+905444644422"
+        },
+        {
+          "icon": "mail",
+          "label": "E-posta",
+          "value": "info@mawtney.com",
+          "value2": "Mawtney@gmail.com",
+          "href": "mailto:info@mawtney.com"
+        },
+        {
+          "icon": "map-pin",
+          "label": "Adres",
+          "value": "İstanbul, Türkiye",
+          "href": "https://maps.google.com"
+        },
+        {
+          "icon": "clock",
+          "label": "Çalışma Saatleri",
+          "value": "Pzt – Cts: 09:00 – 18:00",
+          "href": null
+        }
+      ]
+    },
+    "whatsapp": {
+      "label": "WhatsApp'tan Sohbet Et",
+      "description": "Anında yanıt almak için bize doğrudan ulaşın",
+      "href": "https://wa.me/+905444644422"
+    }
+  }
+}

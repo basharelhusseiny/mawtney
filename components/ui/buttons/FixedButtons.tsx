@@ -7,7 +7,7 @@ const FixedButtons = () => {
     <div className="fixed bottom-5 left-5 flex flex-col gap-2 z-50">
       {/* WhatsApp Button */}
       <Link
-        href="https://api.whatsapp.com/send?phone=21192833008858"
+        href="https://api.whatsapp.com/send?phone=905444644422"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition"
@@ -34,7 +34,7 @@ const FixedButtons = () => {
 
       {/* Call Button */}
       <Link
-        href="tel:+211928033308858"
+        href="tel:+905444644422"
         className="bg-sky-600 text-white p-3 rounded-full shadow-lg hover:bg-sky-700 transition"
         aria-label="Call"
       >

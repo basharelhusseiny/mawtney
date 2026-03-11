@@ -5,7 +5,6 @@ import { Building2, MapPin, Star } from "lucide-react";
 import { DictProps } from "@/types/constants";
 
 const HeroAboutSection = ({ dict, locale }: DictProps) => {
-  const isRtl = locale === "ar";
   const data = dict.about_page.hero;
 
   return (
@@ -67,12 +66,18 @@ const HeroAboutSection = ({ dict, locale }: DictProps) => {
               className="text-3xl sm:text-5xl md:text-6xl font-extrabold"
             >
               <span className="block text-white mb-2 drop-shadow-md">
-                {isRtl ? "موطني العقارية" : "Mawtney Real Estate"}
+                {locale === "ar"
+                  ? "موطني العقارية"
+                  : locale === "tr"
+                    ? "Mawtney Gayrimenkul"
+                    : "Mawtney Real Estate"}
               </span>
               <span className="block bg-linear-to-r from-[#d53336] via-[#e77377] to-[#d53336] bg-clip-text text-transparent pb-2 drop-shadow-sm">
-                {isRtl
+                {locale === "ar"
                   ? "شريكك في عالم العقارات التركية"
-                  : "Your Partner in Turkish Real Estate"}
+                  : locale === "tr"
+                    ? "Türkiye Gayrimenkul Sektöründe Partneriniz"
+                    : "Your Partner in Turkish Real Estate"}
               </span>
             </motion.h1>
           </div>
@@ -110,7 +115,12 @@ const HeroAboutSection = ({ dict, locale }: DictProps) => {
               {
                 icon: Building2,
                 value: "+200",
-                label: isRtl ? "عقار مباع" : "Properties Sold",
+                label:
+                  locale === "ar"
+                    ? "عقار مباع"
+                    : locale === "tr"
+                      ? "Satılan Projeler"
+                      : "Properties Sold",
                 color: "from-[#d53336]/20 to-[#f2555a]/5",
                 iconColor: "text-[#d53336]",
                 borderColor: "border-[#d53336]/30",
@@ -118,7 +128,12 @@ const HeroAboutSection = ({ dict, locale }: DictProps) => {
               {
                 icon: Star,
                 value: "8+",
-                label: isRtl ? "سنوات خبرة" : "Years Exp.",
+                label:
+                  locale === "ar"
+                    ? "سنوات خبرة"
+                    : locale === "tr"
+                      ? "Yıl Deneyim"
+                      : "Years Exp.",
                 color: "from-[#c9a84c]/20 to-[#e5c97b]/5",
                 iconColor: "text-[#c9a84c]",
                 borderColor: "border-[#c9a84c]/30",
@@ -126,7 +141,12 @@ const HeroAboutSection = ({ dict, locale }: DictProps) => {
               {
                 icon: MapPin,
                 value: "İstanbul",
-                label: isRtl ? "تركيا" : "Turkey",
+                label:
+                  locale === "ar"
+                    ? "تركيا"
+                    : locale === "tr"
+                      ? "Türkiye"
+                      : "Turkey",
                 color: "from-white/10 to-white/5",
                 iconColor: "text-white",
                 borderColor: "border-white/20",

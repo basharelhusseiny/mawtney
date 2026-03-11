@@ -1,5 +1,5 @@
 const i18n = {
-  locales: ["en", "ar"],
+  locales: ["en", "ar", "tr"],
   defaultLocale: "ar",
 };
 

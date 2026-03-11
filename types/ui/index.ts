@@ -3,6 +3,7 @@ export type ButtonProps = {
   size?: "sm" | "md" | "lg";
   children: React.ReactNode;
   href?: string;
+  target?: string;
   onClick?: () => void;
   disabled?: boolean;
   loading?: boolean;

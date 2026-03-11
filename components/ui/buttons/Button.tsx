@@ -5,6 +5,7 @@ const Button = ({
   variant = "primary",
   size = "sm",
   href,
+  target,
   ...props
 }: ButtonProps) => {
   const baseStyles =
@@ -31,7 +32,7 @@ const Button = ({
 
   if (href) {
     return (
-      <Link href={href} className={className}>
+      <Link href={href} target={target} className={className}>
         {props.children}
       </Link>
     );

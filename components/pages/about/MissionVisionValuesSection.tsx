@@ -54,7 +54,9 @@ const MissionVisionValuesSection = ({ dict, locale }: DictProps) => {
           title={
             isRtl
               ? "نصنع الفارق في سوق العقارات"
-              : "Making a Difference in Real Estate"
+              : locale === "tr"
+                ? "Gayrimenkul Sektöründe Fark Yaratıyoruz"
+                : "Making a Difference in Real Estate"
           }
           description=""
         />
